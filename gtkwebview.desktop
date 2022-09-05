@@ -9,3 +9,4 @@ Categories=Development;Education;
 Icon=com.github.myteam.myapp
 Exec=com.github.myteam.myapp
 Terminal=false
+X-GNOME-UsesNotifications=true
